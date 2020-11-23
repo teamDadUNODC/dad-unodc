@@ -1,0 +1,22 @@
+.Login {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.bodyCell {
+  margin: 50px;
+}
+.bodyCell:first-child {
+  border-radius: 6px 0 0 6px;
+}
+.bodyCell:last-child {
+  border-radius: 0 6px 6px 0;
+}
+
+.col0,
+.col1,
+.col2 {
+  width: calc(45% / 3);
+}
