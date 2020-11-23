@@ -45,10 +45,10 @@ const MerchantDash = () => {
   const tableData = {
     head: ["Value", "Date", "Type", "Tx"],
     body: [
-      ["r1 val1", "r1 val2", "r1 val3", "r1 val4"],
-      ["r2 val1", "r2 val2", "r2 val3", "r2 val4"],
-      ["r3 val1", "r3 val2", "r3 val3", "r3 val4"],
-      ["r4 val1", "r4 val2", "r4 val3", "r4 val4"]
+      ["250 cUSD", "20.02.20", "Sent", "0xD86518b29BB52a5DAC5991eACf09481CE4B0710d"],
+      ["15 cUSD", "15.02.20", "Recieved", "0xD86518b29BB52a5DAC5991eACf09481CE4B0710d"],
+      ["100 cUSD", "10.02.20", "Sent", "0xD86518b29BB52a5DAC5991eACf09481CE4B0710d"],
+      ["0.01 cUSD", "05.02.20", "Sent", "0xD86518b29BB52a5DAC5991eACf09481CE4B0710d"]
     ]
   };
 
