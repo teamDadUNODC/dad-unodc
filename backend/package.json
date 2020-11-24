@@ -1,0 +1,8 @@
+{
+  "name": "dadbackend",
+  "version": "1.0.0",
+  "description": "Backend implementation of the D.A.D beneficiaries platform",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
